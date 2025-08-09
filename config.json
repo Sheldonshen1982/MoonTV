@@ -85,15 +85,5 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-     },
-    "r155": {
-      "api": "https://apilsbzy1.com",
-      "name": "155资源"
-    }
-   },
-    "lsb": {
-      "api": "https://apilsbzy1.com",
-      "name": "lsb资源"
-    }
   }
 }
